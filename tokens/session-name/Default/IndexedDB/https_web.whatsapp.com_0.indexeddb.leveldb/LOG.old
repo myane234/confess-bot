@@ -1,0 +1,29 @@
+2024/09/29-21:08:19.647 d04 Reusing MANIFEST C:\Users\ACER\Documents\confess\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/29-21:08:19.649 d04 Recovering log #1389
+2024/09/29-21:08:19.669 d04 Reusing old log C:\Users\ACER\Documents\confess\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001389.log 
+2024/09/29-21:08:19.670 d04 Delete type=2 #1371
+2024/09/29-21:08:19.670 d04 Delete type=2 #1373
+2024/09/29-21:08:19.670 d04 Delete type=2 #1376
+2024/09/29-21:08:19.670 d04 Delete type=2 #1381
+2024/09/29-21:08:19.670 d04 Delete type=2 #1383
+2024/09/29-21:08:19.670 d04 Delete type=2 #1390
+2024/09/29-21:08:19.670 d04 Delete type=2 #1396
+2024/09/29-21:08:19.670 d04 Delete type=2 #1397
+2024/09/29-21:08:21.062 32ec Compacting 1@1 + 7@2 files
+2024/09/29-21:08:21.480 32ec Generated table #1397@1: 55898 keys, 2234373 bytes
+2024/09/29-21:08:21.564 32ec Generated table #1398@1: 47802 keys, 2207365 bytes
+2024/09/29-21:08:21.660 32ec Generated table #1399@1: 39729 keys, 2213262 bytes
+2024/09/29-21:08:21.702 32ec Generated table #1400@1: 1928 keys, 2149308 bytes
+2024/09/29-21:08:21.744 32ec Generated table #1401@1: 2274 keys, 2156526 bytes
+2024/09/29-21:08:21.777 32ec Generated table #1402@1: 1678 keys, 2144421 bytes
+2024/09/29-21:08:21.803 32ec Generated table #1403@1: 1006 keys, 1901050 bytes
+2024/09/29-21:08:21.803 32ec Compacted 1@1 + 7@2 files => 15006305 bytes
+2024/09/29-21:08:21.821 32ec compacted to: files[ 0 3 29 0 0 0 0 ]
+2024/09/29-21:08:21.823 32ec Delete type=2 #1339
+2024/09/29-21:08:21.824 32ec Delete type=2 #1340
+2024/09/29-21:08:21.824 32ec Delete type=2 #1341
+2024/09/29-21:08:21.825 32ec Delete type=2 #1365
+2024/09/29-21:08:21.825 32ec Delete type=2 #1366
+2024/09/29-21:08:21.826 32ec Delete type=2 #1367
+2024/09/29-21:08:21.826 32ec Delete type=2 #1368
+2024/09/29-21:08:21.826 32ec Delete type=2 #1392

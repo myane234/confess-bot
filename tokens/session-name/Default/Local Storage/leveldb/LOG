@@ -1,0 +1,6 @@
+2024/09/29-21:10:58.702 415c Reusing MANIFEST C:\Users\ACER\Documents\confess\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/09/29-21:10:58.719 415c Recovering log #4
+2024/09/29-21:10:58.719 415c Reusing old log C:\Users\ACER\Documents\confess\tokens\session-name\Default\Local Storage\leveldb/000004.log 
+2024/09/29-21:13:59.453 3068 Level-0 table #7: started
+2024/09/29-21:13:59.962 3068 Level-0 table #7: 18999 bytes OK
+2024/09/29-21:13:59.998 3068 Delete type=0 #4
